@@ -1,0 +1,14 @@
+D:\labs\dotnet\jwtDemo\bin\Debug\netcoreapp2.2\jwtDemo.deps.json
+D:\labs\dotnet\jwtDemo\bin\Debug\netcoreapp2.2\jwtDemo.runtimeconfig.json
+D:\labs\dotnet\jwtDemo\bin\Debug\netcoreapp2.2\jwtDemo.runtimeconfig.dev.json
+D:\labs\dotnet\jwtDemo\bin\Debug\netcoreapp2.2\jwtDemo.dll
+D:\labs\dotnet\jwtDemo\bin\Debug\netcoreapp2.2\jwtDemo.pdb
+D:\labs\dotnet\jwtDemo\obj\Debug\netcoreapp2.2\jwtDemo.csprojAssemblyReference.cache
+D:\labs\dotnet\jwtDemo\obj\Debug\netcoreapp2.2\jwtDemo.csproj.CoreCompileInputs.cache
+D:\labs\dotnet\jwtDemo\obj\Debug\netcoreapp2.2\jwtDemo.RazorAssemblyInfo.cache
+D:\labs\dotnet\jwtDemo\obj\Debug\netcoreapp2.2\jwtDemo.RazorAssemblyInfo.cs
+D:\labs\dotnet\jwtDemo\obj\Debug\netcoreapp2.2\jwtDemo.AssemblyInfoInputs.cache
+D:\labs\dotnet\jwtDemo\obj\Debug\netcoreapp2.2\jwtDemo.AssemblyInfo.cs
+D:\labs\dotnet\jwtDemo\obj\Debug\netcoreapp2.2\jwtDemo.RazorTargetAssemblyInfo.cache
+D:\labs\dotnet\jwtDemo\obj\Debug\netcoreapp2.2\jwtDemo.dll
+D:\labs\dotnet\jwtDemo\obj\Debug\netcoreapp2.2\jwtDemo.pdb
